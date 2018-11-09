@@ -1,0 +1,14 @@
+/home/pry/Documents/Work/Sequoia/DevUps/hello-world/bin/Debug/netcoreapp2.1/hello-world.deps.json
+/home/pry/Documents/Work/Sequoia/DevUps/hello-world/bin/Debug/netcoreapp2.1/hello-world.runtimeconfig.json
+/home/pry/Documents/Work/Sequoia/DevUps/hello-world/bin/Debug/netcoreapp2.1/hello-world.runtimeconfig.dev.json
+/home/pry/Documents/Work/Sequoia/DevUps/hello-world/bin/Debug/netcoreapp2.1/hello-world.dll
+/home/pry/Documents/Work/Sequoia/DevUps/hello-world/bin/Debug/netcoreapp2.1/hello-world.pdb
+/home/pry/Documents/Work/Sequoia/DevUps/hello-world/obj/Debug/netcoreapp2.1/hello-world.csprojAssemblyReference.cache
+/home/pry/Documents/Work/Sequoia/DevUps/hello-world/obj/Debug/netcoreapp2.1/hello-world.csproj.CoreCompileInputs.cache
+/home/pry/Documents/Work/Sequoia/DevUps/hello-world/obj/Debug/netcoreapp2.1/hello-world.RazorAssemblyInfo.cache
+/home/pry/Documents/Work/Sequoia/DevUps/hello-world/obj/Debug/netcoreapp2.1/hello-world.RazorAssemblyInfo.cs
+/home/pry/Documents/Work/Sequoia/DevUps/hello-world/obj/Debug/netcoreapp2.1/hello-world.AssemblyInfoInputs.cache
+/home/pry/Documents/Work/Sequoia/DevUps/hello-world/obj/Debug/netcoreapp2.1/hello-world.AssemblyInfo.cs
+/home/pry/Documents/Work/Sequoia/DevUps/hello-world/obj/Debug/netcoreapp2.1/hello-world.RazorTargetAssemblyInfo.cache
+/home/pry/Documents/Work/Sequoia/DevUps/hello-world/obj/Debug/netcoreapp2.1/hello-world.dll
+/home/pry/Documents/Work/Sequoia/DevUps/hello-world/obj/Debug/netcoreapp2.1/hello-world.pdb
